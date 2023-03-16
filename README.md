@@ -38,15 +38,15 @@ To run the code in this repository, follow these steps:
 
 This repository contains the following projects:
 
-- SQL Basics - a set of SQL exercises covering basic SQL queries, filtering, ordering, and aggregation.
-- Python Basics - a set of Python exercises covering basic programming concepts, data types, functions, and control flow.
-- Web Scraping with Python - a Python project that demonstrates how to scrape data from websites using the Beautiful Soup and Requests libraries.
-- Data Analysis with Python - a Python project that demonstrates how to use Pandas and Matplotlib to analyze and visualize data from a CSV file.
-- SQL Database Project - a SQL project that demonstrates how to create a database schema, populate it with data, and write complex SQL queries to extract information.
+- **SQL Basics** - a set of SQL exercises covering basic SQL queries, filtering, ordering, and aggregation.
+- **Python Basics** - a set of Python exercises covering basic programming concepts, data types, functions, and control flow.
+- **Web Scraping with Python** - a Python project that demonstrates how to scrape data from websites using the Beautiful Soup and Requests libraries.
+- **Data Analysis with Python** - a Python project that demonstrates how to use Pandas and Matplotlib to analyze and visualize data from a CSV file.
+- **SQL Database Project** - a SQL project that demonstrates how to create a database schema, populate it with data, and write complex SQL queries to extract information.
 
 ## Contributing
 
 If you would like to contribute to this repository, feel free to submit a pull request with your changes. Please ensure that your code adheres to the repository's style and formatting guidelines, and that it includes appropriate documentation and unit tests.
 
 ## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
+This repository is licensed under the MIT License.
